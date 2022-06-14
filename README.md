@@ -20,13 +20,13 @@ ProDriver+ es una aplición donde los choferes profesionales pueden unirse para 
 [![Abel Cierto](https://github.com/SharkyMind-upc-pre-202201-si385-si41/sharky-mind-project-landing-page/blob/master/public/assets/images/AbelCierto.png)](https://www.linkedin.com/in/abel-cierto-espiritu-b0140820b/) 
 
 ### Branco Villegas
-[![Branco Villegas](https://github.com/SharkyMind-upc-pre-202201-si385-si41/sharky-mind-project-landing-page/blob/master/public/assets/images/BrancoVillegas.png)](https://www.linkedin.com/in/dominik-mendoza-ramos-91496a224/) 
+[![Branco Villegas](https://github.com/SharkyMind-upc-pre-202201-si385-si41/sharky-mind-project-landing-page/blob/master/public/assets/images/BrancoVillegas.png)](https://www.linkedin.com/in/branco-villegas-peralta-9b4195242) 
 
 ### Dominik Mendoza
 [![Dominik Mendoza](https://github.com/SharkyMind-upc-pre-202201-si385-si41/sharky-mind-project-landing-page/blob/master/public/assets/images/DominikMendoza.png)](https://www.linkedin.com/in/dominik-mendoza-ramos-91496a224/) 
 
 ### Fernando Schilder
-[![Fernando Schilder](https://github.com/SharkyMind-upc-pre-202201-si385-si41/sharky-mind-project-landing-page/blob/master/public/assets/images/FernandoSchilder.png)](https://www.linkedin.com/in/dominik-mendoza-ramos-91496a224/) 
+[![Fernando Schilder](https://github.com/SharkyMind-upc-pre-202201-si385-si41/sharky-mind-project-landing-page/blob/master/public/assets/images/FernandoSchilder.png)](https://www.linkedin.com/in/fernando-schilder-hervias-81065b213/) 
 
 ### Lennin Huaman
 [![Lennin Huaman](https://github.com/SharkyMind-upc-pre-202201-si385-si41/sharky-mind-project-landing-page/blob/master/public/assets/images/LenninHuaman.png)](https://www.linkedin.com/in/lennin-huaman-b05210242/) 
