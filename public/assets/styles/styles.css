@@ -1,0 +1,62 @@
+/*Common Fonts import*/
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100&display=swap');
+@import url('https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.1.1/css/all.min.css');
+
+/*Footer section*/
+footer{
+    color: white;
+    background-color: #007BBB;
+    width: 100%;
+    display: grid;
+    margin: auto;
+    grid-template-columns: repeat(3, 1fr);
+    grid-gap: 50px;
+    padding: 45px 0px;
+}
+
+.information{
+
+}
+.information-list{
+
+}
+.information-list__social{
+    align-items: center;
+    margin: 15px;
+    padding: 0;
+}
+
+.navigation-menu__link{}
+.navigation{
+
+}
+.navigation-menu{
+    margin-top: 5px;
+    margin-left: 10px;
+}
+.navigation-menu__link{
+    float: none;
+    margin: 0%;
+    padding: 0%;
+}
+
+.contact{
+
+}
+.contact-list{
+    padding: 10px;
+}
+.contact-list__option{
+    margin: 0%;
+    padding: 0%;
+}
+.contact-form{}
+
+@media screen and (max-width: 750px) {
+    footer {
+        width: 100%;
+        grid-template-columns: repeat(1, 1fr);
+        grid-gap: 30px;
+        padding: 35px 0px;
+    }
+}
