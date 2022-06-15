@@ -41,7 +41,7 @@ Son personas entre 25 y 50 años que se dedican al transporte terrestre de carga
 ![Drivers](https://github.com/SharkyMind-upc-pre-202201-si385-si41/sharky-mind-project-landing-page/blob/master/public/assets/images/chofer.png)
 
 ### Segmento de empresas
-Son empresas, en su mayoría pymes, que actualmente se encuentran en la búsqueda de conductores profesionales que cumplan con ciertos requisitos. Pueden ser empresas de transporte interprovincial, urbano o que simplemente busquen un servicio de transporte de carga terrestre.
+Son empresas, en su mayoría pymes, que actualmente se encuentran en la búsqueda de conductores profesionales que cumplan con ciertos requisitos. Pueden ser empresas de transporte interprovincial, urbano o que simplemente busquen un servicio de transporte de carga terrestre. 
 
 ![Business](https://github.com/SharkyMind-upc-pre-202201-si385-si41/sharky-mind-project-landing-page/blob/master/public/assets/images/meeting.png)
 
